@@ -1,1 +1,3 @@
 this is first code file
+
+i am not a java developer and i am trying to learn git
